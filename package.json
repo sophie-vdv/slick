@@ -1,18 +1,19 @@
 {
-  "name": "slick-carousel",
-  "version": "1.6.0",
-  "description": "the last carousel you'll ever need",
+  "name": "slick-browserify",
+  "version": "1.6.1",
+  "description": "the last carousel you'll ever need. Support browserify",
   "main": "slick/slick.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kenwheeler/slick.git"
+    "url": "https://github.com/sophie-vdv/slick-browserify"
   },
   "keywords": [
     "carousel",
     "slick",
     "responsive",
     "js",
-    "slider"
+    "slider",
+    "browserify"
   ],
   "author": "Ken Wheeler <ken_wheeler@me.com>",
   "contributors": [
@@ -38,11 +39,15 @@
     {
       "name": "ashley mcknight",
       "email": "ash@sharpteef.net"
+    },
+    {
+      "name": "sophie vanderveken",
+      "email": "vanderveken.sophie@gmail.com"
     }
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kenwheeler/slick/issues"
+    "url": "https://github.com/sophie-vdv/slick-browserify"
   },
   "dependencies": {
     "jquery": ">=1.7.2"
