@@ -1,5 +1,5 @@
 {
-  "name": "slick-browserify",
+  "name": "slick-browserify-js",
   "version": "1.6.1",
   "description": "the last carousel you'll ever need. Support browserify",
   "main": "slick/slick.js",

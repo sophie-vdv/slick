@@ -13,7 +13,7 @@ _the last carousel you'll ever need_
 
 ```
 # NPM
-npm install slick-browserify
+npm install slick-browserify-js
 ```
 
 #### Contributing
