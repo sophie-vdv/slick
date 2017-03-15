@@ -17,16 +17,6 @@
 /* global window, document, define, jQuery, setInterval, clearInterval */
 ;(function ($, window, document, undefined) {
     'use strict';
-    if (typeof define === 'function' && define.amd) {
-        define(['jquery'], factory);
-    } else if (typeof exports !== 'undefined') {
-        module.exports = factory(require('jquery'));
-    } else {
-        factory(jQuery);
-    }
-
-}(function ($) {
-    'use strict';
     var Slick = window.Slick || {};
 
     Slick = (function () {
